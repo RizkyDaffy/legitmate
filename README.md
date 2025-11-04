@@ -81,12 +81,25 @@ flowchart LR
 > legitmate is for post‑game analysis and training.
 > Using any engine or derived assistance during live, rated, or competitive play violates fair‑play policies and terms of service on most platforms and events.
 
-## What legitmate does not do
+## What legitmate does do
 
-❌ No live move suggestions
-❌ No overlays or on‑screen hints
+✅ live move suggestions
+✅ overlays or on‑screen hints
 ❌ No memory injection, hooking, or tampering with chess clients
 ❌ No tools to bypass fair‑play detection
 Use responsibly. Respect tournament rules, FIDE regulations, and platform terms.
 
 ## Photo Proof
+
+<img src="https://github.com/RizkyDaffy/legitmate/blob/main/preview/hikaru.png?raw=true">
+<img src="https://github.com/RizkyDaffy/legitmate/blob/main/preview/vishy.png?raw=true">
+
+
+## Conclusion
+
+If you want clean, honest feedback on your games, legitmate keeps it simple: analyze after you play, learn what mattered, and turn your mistakes into targeted training. That’s how you level up.
+
+## Copyright
+
+© 2025 Legitmate. All rights reserved.
+Released under the Fair‑Play Non‑Live Use License. 
